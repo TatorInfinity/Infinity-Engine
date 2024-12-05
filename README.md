@@ -1,4 +1,4 @@
-# Infinity-Engine
+# Infinity Engine
 Infinity Engine is a simple yet powerful Python-based game engine for building 2D games.
 Infinity Engine
 Overview
